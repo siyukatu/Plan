@@ -316,7 +316,7 @@ html:
         averageTps7days: "平均TPS(7日)"
         banned: "BAN履歴"
         bestPeak: "全体のピークタイム"
-        bestPing: "最高Ping値"
+        bestPing: "最大Ping値"
         calendar: "カレンダー"
         comparing7days: "直近1週間との比較"
         connectionInfo: "接続情報"
